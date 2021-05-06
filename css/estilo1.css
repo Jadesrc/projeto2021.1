@@ -1,0 +1,31 @@
+
+body{
+   background: rgb(135,206,235);
+   margin-top: 0%;
+   margin-left: 10%;
+   margin-right: 10%;
+   margin-bottom: 0%;
+   }
+   
+h1{
+   text-align:center;
+   font:20px;
+}  
+h2{ 
+    font:18px;
+}	
+div{
+  .classe1{
+    background: rgb(131,111,255);
+    font-size:15px;
+}
+  .classe2{
+    background: rgb(0,255,255);
+    font-size:15px;
+}
+  .classe3{
+    background: rgb(255,255,0);
+	font-size:15px;
+}
+  </div>
+  </body>
